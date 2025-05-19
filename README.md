@@ -14,9 +14,6 @@ Este programa em Java calcula a média de duas notas, garantindo que ambas estej
 
 ## 💡 Exemplo de Uso
 ```` bash
-less
-Copiar
-Editar
 Digite a primeira nota: 8
 Digite a segunda nota: 11
 Digite a segunda nota: 9
